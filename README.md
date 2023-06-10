@@ -1,7 +1,9 @@
 # Virtual-Cards
 # Filter by card type
-![Screenshot (228)](https://github.com/ROHIT0770/virtual-card/assets/84166581/1322f079-a1d9-4418-a219-7e3b6ba5f8cd)
 Here I filter Burner in filter radio button
+![Screenshot (228)](https://github.com/ROHIT0770/virtual-card/assets/84166581/1322f079-a1d9-4418-a219-7e3b6ba5f8cd)
+![Screenshot (230)](https://github.com/ROHIT0770/virtual-card/assets/84166581/512cb77d-6e26-483b-8663-3cd3f547ec0d)
+
 # Search by card name
 ![Screenshot (229)](https://github.com/ROHIT0770/virtual-card/assets/84166581/427ec317-86eb-47a7-8ec7-440ea7f943ef)
 
