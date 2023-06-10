@@ -289,5 +289,5 @@ const AllCards = () => {
         </MasterLayout>
     );
 }
-
+ 
 export default AllCards;
